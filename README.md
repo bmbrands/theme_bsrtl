@@ -1,11 +1,11 @@
 About this theme
 ================
 
-![image1](pix/screenshot.png "Moodle Bootstrap Screenshot")
+![image1](pix/screenshot.jpg "Moodle Bootstrap Screenshot")
 
-This is Bootswatch bsrtl on the Bootstrap 3 theme for Moodle.
+This is the Bootstrap 3 theme for Right to Left languages in Moodle.
 
-* package   bsrtl bootswatch for Bootstrap 3
+* package   bsrtl for Bootstrap 3
 * copyright 2014 Bas Brands. www.sonsbeekmedia.nl
 * authors   Bas Brands, David Scotson
 * license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
